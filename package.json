@@ -1,0 +1,25 @@
+{
+  "name": "lets-chat-telegram-bot",
+  "version": "1.0.0",
+  "description": "A bot for passing messages between Lets Chat and Telegram",
+  "main": "app.js",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.23.3",
+    "socket.io-client": "^1.4.8",
+    "url": "^0.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shawngustaw/Lets-Chat-Telegram-Bot.git"
+  },
+  "author": "Shawn Gustaw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shawngustaw/Lets-Chat-Telegram-Bot/issues"
+  },
+  "homepage": "https://github.com/shawngustaw/Lets-Chat-Telegram-Bot#readme"
+}
